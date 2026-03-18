@@ -47,7 +47,7 @@ RegisterNumber: 212224040247
 ```
 
 ## SOURCE CODE:
-```
+```py
 import java.util.Scanner;
 
 public class PirateCodeLock {
